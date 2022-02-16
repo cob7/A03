@@ -14,13 +14,13 @@ Webstorm Tutorial
 
 Glossary
 * **Branch** - a unique set of code changes with a unique name
-**Clone** -
-**Fetch** -
-**GIT** -
-**Github** -
-**Merge** -
-**Merge Conflict** -
-**Push** -
-**Pull** -
-**Remote** -
-**Repository** -
+* **Clone** -copy the repository from GitHub.com to your local machine.
+* **Fetch** - downloads commits, files, and refs from a remote repository into your local repo
+* **GIT** - software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code
+* **Github** - a distributed version-control platform where users can collaborate on or adopt open source code projects, fork code, share ideas and more.
+* **Merge** - lets you take the independent lines of development created by git branch and integrate them into a single branch.
+* **Merge Conflict** - an event that occurs when Git is unable to automatically resolve differences in code between two commits
+* **Push** - used to upload local repository content to a remote repository
+* **Pull** - let syou tell others about changes you've pushed to a branch in a repository
+* **Remote** - a common repository that all team members use to exchange their changes
+* **Repository** -  tracks all changes made to files in your project, building a history over time
