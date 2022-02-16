@@ -13,7 +13,7 @@ Webstorm Tutorial
 4. Run and debug your application
 
 Glossary
-**Branch** - a unique set of code changes with a unique name
+* **Branch** - a unique set of code changes with a unique name
 **Clone** -
 **Fetch** -
 **GIT** -
