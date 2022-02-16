@@ -24,3 +24,7 @@ Glossary
 * **Pull** - let syou tell others about changes you've pushed to a branch in a repository
 * **Remote** - a common repository that all team members use to exchange their changes
 * **Repository** -  tracks all changes made to files in your project, building a history over time
+
+References
+https://opensource.com/article/18/1/step-step-guide-git
+https://www.jetbrains.com/help/webstorm/getting-started-with-webstorm.html
